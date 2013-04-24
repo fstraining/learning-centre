@@ -1,7 +1,7 @@
 (function( window, undefined ) {
 "use strict";
 var document = window.document,
-  h;
+	h;
 
 var List = function(id, options, values) {
     var self = this,
